@@ -1,3 +1,6 @@
+Fork for BCN-5536
+Adapt the copy.js from version 7
+
 5.0.0 / 2017-12-11
 ------------------
 
